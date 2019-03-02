@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/4.Project/BOTDOKTER/.idea/Bot cara dicoding part 2.iml" filepath="D:/4.Project/BOTDOKTER/.idea/Bot cara dicoding part 2.iml" />
+      <module fileurl="file://D:/4.Project/PDFtoJSON/.idea/PDFtoJSON.iml" filepath="D:/4.Project/PDFtoJSON/.idea/PDFtoJSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/k-means.iml" filepath="$PROJECT_DIR$/.idea/k-means.iml" />
+      <module fileurl="file://D:/4.Project/nltk-tutorial/.idea/nltk-tutorial.iml" filepath="D:/4.Project/nltk-tutorial/.idea/nltk-tutorial.iml" />
+      <module fileurl="file://D:/7.DataScience/odo/.idea/odo.iml" filepath="D:/7.DataScience/odo/.idea/odo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Q-Learning/reinforcement/.idea/reinforcement.iml" filepath="$PROJECT_DIR$/../Q-Learning/reinforcement/.idea/reinforcement.iml" />
+      <module fileurl="file://D:/1.Web Programming/DjangoProject/webblog/.idea/webblog.iml" filepath="D:/1.Web Programming/DjangoProject/webblog/.idea/webblog.iml" />
+    </modules>
+  </component>
+</project>
